@@ -1,0 +1,1 @@
+link para download do APK https://exp-shell-app-assets.s3.us-west-1.amazonaws.com/android/%40arlisondev/netflixapp-9231efbb0b5943d79a7e846308971486-signed.apk
